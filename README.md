@@ -1,0 +1,2 @@
+# TarotT_by_GenglyDesignStudio
+ TarotT is a visually captivating static website inspired by the artistry and symbolism of the Rider–Waite tarot deck. Developed by Gengly Design Studio, this project serves as both a celebration of tarot’s rich mysticism and a modern exploration of its visual language. It dynamically showcases tarot card meanings, imagery, and themes while offering an engaging and immersive user experience.  This project is also a practical exercise in front-end development, combining HTML, CSS, and JavaScript to bring the timeless allure of tarot to life.
